@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/myPortfolio/static/css/main.4a5770bb.css",
+    "main.js": "/myPortfolio/static/js/main.1ae34dca.js",
+    "static/media/choosegame.PNG": "/myPortfolio/static/media/choosegame.aaefeddd38cbe361779d.PNG",
+    "static/media/lebanon-img.PNG": "/myPortfolio/static/media/lebanon-img.b1b2c84b12e90963f32d.PNG",
+    "static/media/loons-outside.PNG": "/myPortfolio/static/media/loons-outside.d7a3c2ccc27ff8b06999.PNG",
+    "static/media/loons-inside.PNG": "/myPortfolio/static/media/loons-inside.01dbbe15d4c97e4a3bca.PNG",
+    "static/media/loginquizloons.PNG": "/myPortfolio/static/media/loginquizloons.6b02d3aa754ca0091605.PNG",
+    "static/media/Marc CV.pdf": "/myPortfolio/static/media/Marc CV.466add48a07e7bb564f8.pdf",
+    "static/media/me-about.jpg": "/myPortfolio/static/media/me-about.fb4452e7f286d3636ef9.jpg",
+    "static/media/marc.png": "/myPortfolio/static/media/marc.6d00a37decacda55337e.png",
+    "static/media/quiz-img.PNG": "/myPortfolio/static/media/quiz-img.0059537f8f5f5ac45862.PNG",
+    "index.html": "/myPortfolio/index.html",
+    "main.4a5770bb.css.map": "/myPortfolio/static/css/main.4a5770bb.css.map",
+    "main.1ae34dca.js.map": "/myPortfolio/static/js/main.1ae34dca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a5770bb.css",
+    "static/js/main.1ae34dca.js"
+  ]
+}
