@@ -6,6 +6,9 @@ import login from '../../assets/loginquizloons.PNG'
 import chooseGame from '../../assets/choosegame.PNG'
 import loonsoutside from '../../assets/loons-outside.PNG'
 import loonsinside from '../../assets/loons-inside.PNG'
+import pharmacyMainpage from '../../assets/pharmacy-mainpage'
+import pharmacyUsers from '../../assets/pharmacy-users'
+import pharmacyReports from '../../assets/pharmacy-reports'
 
 
 const data=[
@@ -55,6 +58,30 @@ const data=[
     title:"Quiz and loons game",
     github:"https://github.com/MarcOuba/quizloons",
     live:"https://marcouba.github.io/quizloons"
+
+  },
+  {
+    id:7,
+    image:pharmacyMainpage,
+    title:"Pharmacy website / mainpage visible for both users and admins",
+    github:"https://github.com/MarcOuba/Pharmacy-MGT",
+    live:"http://192.168.1.102/ajax/"
+
+  },
+  {
+    id:8,
+    image:pharmacyUsers,
+    title:"Pharmacy website / users page only visible for admins",
+    github:"https://github.com/MarcOuba/Pharmacy-MGT",
+    live:"http://192.168.1.102/ajax/"
+
+  },
+  {
+    id:9,
+    image:pharmacyReports,
+    title:"Pharmacy website / reports page only visible for admins",
+    github:"https://github.com/MarcOuba/Pharmacy-MGT",
+    live:"http://192.168.1.102/ajax/"
 
   }
 
