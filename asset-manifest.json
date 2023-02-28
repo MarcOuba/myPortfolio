@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/myPortfolio/static/css/main.4a5770bb.css",
-    "main.js": "/myPortfolio/static/js/main.1df265de.js",
+    "main.js": "/myPortfolio/static/js/main.c3aacb0e.js",
     "static/media/choosegame.PNG": "/myPortfolio/static/media/choosegame.aaefeddd38cbe361779d.PNG",
     "static/media/lebanon-img.PNG": "/myPortfolio/static/media/lebanon-img.b1b2c84b12e90963f32d.PNG",
     "static/media/loons-outside.PNG": "/myPortfolio/static/media/loons-outside.d7a3c2ccc27ff8b06999.PNG",
     "static/media/pharmacy-mainpage.PNG": "/myPortfolio/static/media/pharmacy-mainpage.4260d2ce014dec824aa6.PNG",
     "static/media/loons-inside.PNG": "/myPortfolio/static/media/loons-inside.01dbbe15d4c97e4a3bca.PNG",
     "static/media/loginquizloons.PNG": "/myPortfolio/static/media/loginquizloons.6b02d3aa754ca0091605.PNG",
-    "static/media/Marc CV.pdf": "/myPortfolio/static/media/Marc CV.bd442186d0b0c8e8683e.pdf",
+    "static/media/Marc CV.pdf": "/myPortfolio/static/media/Marc CV.99276558896a5783f286.pdf",
     "static/media/me-about.jpg": "/myPortfolio/static/media/me-about.fb4452e7f286d3636ef9.jpg",
     "static/media/marc.png": "/myPortfolio/static/media/marc.6d00a37decacda55337e.png",
     "static/media/pharmacy-users.PNG": "/myPortfolio/static/media/pharmacy-users.9e19696781c926ffc7a8.PNG",
@@ -16,10 +16,10 @@
     "static/media/pharmacy-reports.PNG": "/myPortfolio/static/media/pharmacy-reports.77090375c8e5fa3108ca.PNG",
     "index.html": "/myPortfolio/index.html",
     "main.4a5770bb.css.map": "/myPortfolio/static/css/main.4a5770bb.css.map",
-    "main.1df265de.js.map": "/myPortfolio/static/js/main.1df265de.js.map"
+    "main.c3aacb0e.js.map": "/myPortfolio/static/js/main.c3aacb0e.js.map"
   },
   "entrypoints": [
     "static/css/main.4a5770bb.css",
-    "static/js/main.1df265de.js"
+    "static/js/main.c3aacb0e.js"
   ]
 }
